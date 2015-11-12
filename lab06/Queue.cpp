@@ -49,8 +49,8 @@ Queue::~Queue()
 /*********************************************************************
  ** Function: Queue::add()
  ** Description: Adds a new QueueNode containing "item" to the front
- **              of the Stack.
- ** Parameters: item    the integer to add to the Stack
+ **              of the Queue.
+ ** Parameters: item    the integer to add to the Queue
  ** Pre-Conditions: none
  ** Post-Conditions: back points to a new node containing "item",
  **                  the new node points to the old back node, front
