@@ -396,7 +396,7 @@ void Game::tick()
         }
     }
 
-    // now that we know what ever cell is going to do...
+    // now that we know what every cell is going to do...
 
     // overwrite all cells other than the edge cells
     // this ensure the edge cells always stay DEAD and, thanks to
