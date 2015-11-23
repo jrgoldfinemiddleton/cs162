@@ -99,7 +99,7 @@ bool List::add_item(const Item &it)
     // item in list already
     if (position(it) >= 0) return false;
 
-    // put the item in the list and just the total price
+    // put the item in the list and adjust the total price
     items.push_back(it);
     total_price += it.get_total_price();
 
