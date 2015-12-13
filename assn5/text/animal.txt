@@ -1,0 +1,26 @@
+ monkey
+ babboon
+ gorilla
+ sparrow
+ monster
+ zebra
+ lizard
+ dog
+ lion
+ tyrannosaurus rex
+ brontosaurus
+ velociraptor
+ pirate
+ unicorn
+ frog
+ salamander
+ whale
+ dolphin
+ fish
+ salmon
+ tapir
+n eagle
+n alligator
+n ibis
+n egg
+n anteater
